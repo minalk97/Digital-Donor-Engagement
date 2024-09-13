@@ -8,11 +8,6 @@
 
 ## Setup Instructions
 
-## Database Setup
-
-• Create a Database Connection: Open MySQL Workbench and create a new connection using your MySQL credentials.\
-• Import the Database: Download the database dump file from [here](https://github.bath.ac.uk/msk98/databse_fundraising_website) and import it to load all necessary tables into your MySQL database.
-
 ## Environment Setup
 
 • Open the Backend Project\
