@@ -1,0 +1,12 @@
+.custom-header {
+  background-color: rgb(61, 82, 160) !important;
+  min-height: 40px;
+}
+
+.custom-header .nav-link {
+  color: white !important;
+}
+
+.custom-header .points-text {
+  color: white !important;
+}
