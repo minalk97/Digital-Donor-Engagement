@@ -8,7 +8,7 @@
 
 ## Important: Database and Backend Setup
 
-Before setting up the frontend, ensure that you have followed the databse and backend setup instructions. The frontend interacts with the backend API, so it’s essential to have the backend server running for full functionality. Please refer to the backend README [here](https://github.bath.ac.uk/msk98/fundraising_website_be) for setup instructions and make sure the backend server is running on [http://localhost:4000](http://localhost:4000).
+Before setting up the frontend, ensure that you have followed the backend setup instructions. The frontend interacts with the backend API, so it’s essential to have the backend server running for full functionality. Please refer to the backend README [here](https://github.bath.ac.uk/msk98/fundraising_website_be) for setup instructions and make sure the backend server is running on [http://localhost:4000](http://localhost:4000).
 
 ## Frontend Setup
 
